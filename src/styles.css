@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+}
+
+#root {
+  background: #74ebd5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #acb6e5,
+    #74ebd5
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #acb6e5,
+    #74ebd5
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  background-color: azure;
+  width: 15px;
+  height: 15px;
+  margin: 1px 1px 0 0;
+}
+
+.box:hover {
+  background-color: deepskyblue;
+}
+
+.on {
+  background-color: goldenrod;
+}
+
+.off {
+  background-color: azure;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
