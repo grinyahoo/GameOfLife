@@ -9,8 +9,8 @@ devised by the British mathematician John Horton Conway in 1970.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 ### Implemented with:
-
-React, Bootstrap
+JavaScript
+React.js, Bootstrap
 
 
 Created with CodeSandbox
