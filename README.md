@@ -11,6 +11,3 @@ devised by the British mathematician John Horton Conway in 1970.
 ### Implemented with:
 JavaScript
 React.js, Bootstrap
-
-
-Created with CodeSandbox
